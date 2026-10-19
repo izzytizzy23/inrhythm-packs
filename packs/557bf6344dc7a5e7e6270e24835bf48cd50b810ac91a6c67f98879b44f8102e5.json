@@ -1,0 +1,1187 @@
+{
+  "packVersion": "eotc.draft.869c33f9c9d5",
+  "tradition": "eotc",
+  "builtAtFloor": "draft",
+  "validYears": {
+    "from": 2018,
+    "to": 2039
+  },
+  "observances": [
+    {
+      "id": "enkutatash",
+      "am": "እንቁጣጣሽ",
+      "tr": "Enkutatash",
+      "en": "The New Year",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 1,
+        "day": 1
+      },
+      "why": "The New Year, Meskerem 1, kept with the feast of St John the Baptist.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "meskel",
+      "am": "መስቀል",
+      "tr": "Meskel",
+      "en": "The Finding of the True Cross",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 1,
+        "day": 17
+      },
+      "why": "The Finding of the True Cross, remembering Empress Helena's search for it.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "hidar-tsion",
+      "am": "ኅዳር ጽዮን",
+      "tr": "Hidar Tsion",
+      "en": "Saint Mary of Zion",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 3,
+        "day": 21
+      },
+      "why": "Honouring our mother Saint Mary, the fulfilment of Mount Zion.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "genna",
+      "am": "ገና / ልደት",
+      "tr": "Genna",
+      "en": "The Nativity of Our Lord",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 4,
+        "day": 29,
+        "dayAfterLeap": 28
+      },
+      "why": "The Nativity of Our Lord Jesus Christ.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "timket",
+      "am": "ጥምቀት",
+      "tr": "Timket",
+      "en": "The Baptism of Our Lord",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 5,
+        "day": 11
+      },
+      "why": "The Baptism of Our Lord in the Jordan.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kidane-mehret-annual",
+      "am": "ኪዳነ ምሕረት",
+      "tr": "Kidane Mehret",
+      "en": "The Covenant of Mercy",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 6,
+        "day": 16
+      },
+      "why": "Commemorating the Covenant of Mercy, the promise Christ made to his mother, Saint Mary, concerning mercy for those who seek her intercession.",
+      "reviewStatus": "draft",
+      "note": "Why replaced from Review Sheet 4, answer 7 (17 Oct 2026)."
+    },
+    {
+      "id": "debre-tabor",
+      "am": "ደብረ ታቦር / ቡሄ",
+      "tr": "Debre Tabor",
+      "en": "The Transfiguration",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 12,
+        "day": 13
+      },
+      "why": "The Transfiguration of Our Lord Jesus Christ, when he revealed his glory to his disciples.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "filseta",
+      "am": "ፍልሰታ ለማርያም",
+      "tr": "Filseta le-Maryam",
+      "en": "The Assumption of Our Lady Mary",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 12,
+        "day": 16
+      },
+      "why": "The Assumption of Our Lady Mary, Nehase 16.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "debre-zeit",
+      "am": "ደብረ ዘይት",
+      "tr": "Debre Zeit",
+      "en": "The Mount of Olives",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "debreZeit"
+      },
+      "why": "The fifth Sunday of the Great Fast remembers Christ's teaching on the Mount of Olives about his Second Coming. It calls Christians to repentance and readiness for the final judgement.",
+      "reviewStatus": "draft",
+      "note": "Why from Review Sheet 4, answer 6 (17 Oct 2026)."
+    },
+    {
+      "id": "hosanna",
+      "am": "ሆሣዕና",
+      "tr": "Hosanna",
+      "en": "Palm Sunday",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "hosanna"
+      },
+      "why": "Christ's entry into Jerusalem, the Sunday before Fasika.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "siklet",
+      "am": "ስቅለት",
+      "tr": "Siklet",
+      "en": "Good Friday",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "siklet"
+      },
+      "why": "Good Friday, the Crucifixion of Our Lord.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fasika",
+      "am": "ትንሣኤ / ፋሲካ",
+      "tr": "Fasika",
+      "en": "The Resurrection of Our Lord",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "fasika"
+      },
+      "why": "The Resurrection of Our Lord, the greatest feast of the year.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "rikbe-kahnat",
+      "am": "ርክበ ካህናት",
+      "tr": "Rikbe Kahnat",
+      "en": "The Meeting of the Priests",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "rikbeKahnat"
+      },
+      "why": "Kept on a Wednesday in the season after Fasika, it recalls Christ's charge to Saint Peter to shepherd his flock. It also honours the gathering of the Church's bishops to guide the faithful and strengthen the Church.",
+      "reviewStatus": "draft",
+      "note": "Why from Review Sheet 4, answer 6 (17 Oct 2026)."
+    },
+    {
+      "id": "erget",
+      "am": "ዕርገት",
+      "tr": "Erget",
+      "en": "The Ascension",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "erget"
+      },
+      "why": "The Ascension of Our Lord, forty days after Fasika.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "peraklitos",
+      "am": "ጰራቅሊጦስ",
+      "tr": "Peraklitos",
+      "en": "Pentecost",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "peraklitos"
+      },
+      "why": "The coming of the Holy Spirit on the Apostles, fifty days after Fasika.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ledeta-maryam",
+      "am": "ልደታ ለማርያም",
+      "tr": "Ledeta le-Maryam",
+      "en": "The Nativity of Saint Mary",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 1
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "abo",
+      "am": "አቡነ ገብረ መንፈስ ቅዱስ",
+      "tr": "Abune Gebre Menfes Kidus",
+      "en": "Abune Gebre Menfes Kidus",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 5
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "selassie",
+      "am": "ሥላሴ",
+      "tr": "Selassie",
+      "en": "The Holy Trinity",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 7
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mikael",
+      "am": "ቅዱስ ሚካኤል",
+      "tr": "Kidus Mikael",
+      "en": "Saint Michael the Archangel",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 12
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kidane-mehret",
+      "am": "ኪዳነ ምሕረት",
+      "tr": "Kidane Mehret",
+      "en": "The Covenant of Mercy",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 16
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gabriel",
+      "am": "ቅዱስ ገብርኤል",
+      "tr": "Kidus Gabriel",
+      "en": "Saint Gabriel the Archangel",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 19
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "egziete-maryam",
+      "am": "እግዝእትነ ማርያም",
+      "tr": "Egzi'tine Maryam",
+      "en": "Our Lady Saint Mary",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 21
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "giyorgis",
+      "am": "ቅዱስ ጊዮርጊስ",
+      "tr": "Kidus Giyorgis",
+      "en": "Saint George",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 23
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tekle-haymanot",
+      "am": "አቡነ ተክለ ሃይማኖት",
+      "tr": "Abune Tekle Haymanot",
+      "en": "Abune Tekle Haymanot",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 24
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "medhane-alem",
+      "am": "መድኃኔ ዓለም",
+      "tr": "Medhane Alem",
+      "en": "The Saviour of the World",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 27
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "baale-wold",
+      "am": "በዓለ ወልድ",
+      "tr": "Ba'ale Wold",
+      "en": "The Nativity of Our Lord",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 29
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tsome-dihnet",
+      "am": "ጾመ ድኅነት",
+      "tr": "Tsome Dihnet",
+      "en": "The Fast of Salvation",
+      "rank": "fast",
+      "rule": {
+        "kind": "weekday",
+        "days": [
+          3,
+          5
+        ]
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth"
+      },
+      "why": "On Wednesday the Church remembers the counsel taken against Christ, and on Friday his Crucifixion. So both are fast days through the year.",
+      "icon": {
+        "file": "virgin-and-child-walters-36-12",
+        "title": "Mary and Her Son Flanked by Archangels, Apostles and a Saint",
+        "credit": "Follower of Fre Seyon, Ethiopia, late 15th century · Walters Art Museum, public domain"
+      },
+      "reviewStatus": "draft",
+      "note": "ICON chosen by the project owner, 16 Oct 2026 (content/icons/CREDITS.md). Review Sheet 4 (17 Oct 2026): suitable."
+    },
+    {
+      "id": "tsome-nebiyat",
+      "am": "ጾመ ነቢያት",
+      "tr": "Tsome Nebiyat",
+      "en": "The Fast of the Prophets",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "fixed",
+          "month": 3,
+          "day": 15
+        },
+        "endExclusive": {
+          "kind": "fixed",
+          "month": 4,
+          "day": 29,
+          "dayAfterLeap": 28
+        }
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "Kept before Genna, remembering the prophets who foretold and awaited the coming of Christ.",
+      "icon": {
+        "file": "nativity-diptych-nmafa",
+        "title": "The Nativity, with the Annunciation, the Magi and the life of Mary",
+        "credit": "Ethiopia, 17th century · National Museum of African Art, Smithsonian, CC0"
+      },
+      "reviewStatus": "draft",
+      "note": "ANSWERED 28 Sep 2026: begins Hidar 16, not 15. Ends where it always did, the day before Tsome Gahad on Tahsas 28, expressed as an endpoint rather than the old 43-day count so that moving the start cannot drag the end with it. Hidar 16 to Tahsas 27 is 42 days. UPDATED 15 Oct 2026 by the project owner: the fast runs through the eve of Genna (Tahsas 28, or 27 in the year after an Ethiopic leap year), so it always ends on 6 January, 43 days from Hidar 16. Before a Wednesday or Friday Genna the eve is also Tsome Gahad. This replaces the reviewer's end on Tahsas 27, and keeps the eve a fast day every year (the safety rule). ANSWERED on Review Sheet 4 (17 Oct 2026): the end is right, and the fast begins on Hidar 15, so it runs 24 November to 6 January (25 November after an Ethiopic leap year). ICON added 16 Oct 2026 at the owner's request (content/icons/CREDITS.md); Review Sheet 4: suitable."
+    },
+    {
+      "id": "tsome-gahad-genna",
+      "am": "ጾመ ገሃድ",
+      "tr": "Tsome Gahad",
+      "en": "The Vigil of the Nativity",
+      "rank": "fast",
+      "rule": {
+        "kind": "fixed",
+        "month": 4,
+        "day": 28,
+        "dayAfterLeap": 27
+      },
+      "onlyIfNextDayIs": [
+        3,
+        5
+      ],
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "When Genna falls on a Wednesday or a Friday, Genna is kept as a feast and the fast moves to its eve.",
+      "reviewStatus": "draft",
+      "note": "DECIDED 15 Oct 2026 by the project owner: Gahad is kept only when Genna falls on a Wednesday or Friday, and that Genna is then free of the fast (dispensation genna-feast). Review Sheet 4 (17 Oct 2026): the reviewer AGREES, withdrawing the earlier answers below as too broad. Earlier: 28 Sep they placed the end of Tsome Nebiyat on \"the day before Tsome Gahad on Tahsas 28\", reading Gahad as every year, and on Review Sheet 2 they said moving the fast to the eve \"only applies to Timket\". The eve is still a fast day every year, as the last day of Tsome Nebiyat (also decided 15 Oct 2026). Both confirmed on Review Sheet 4 (17 Oct 2026). Also 15 Oct 2026: Genna, this eve, the end of Tsome Nebiyat and genna-feast all move a day earlier in the year after an Ethiopic leap year, so Genna stays on 7 January; before this, 2028 and 2032 showed Genna on 8 January."
+    },
+    {
+      "id": "tsome-gahad-timket",
+      "am": "ጾመ ገሃድ",
+      "tr": "Tsome Gahad",
+      "en": "The Vigil of the Baptism",
+      "rank": "fast",
+      "rule": {
+        "kind": "fixed",
+        "month": 5,
+        "day": 10
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "The eve of Timket, Tir 10, is a fast day, kept to prepare for the Baptism of Our Lord.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tsome-nenewe",
+      "am": "ጾመ ነነዌ",
+      "tr": "Tsome Nenewe",
+      "en": "The Fast of Nineveh",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "paschal",
+          "feast": "nineveh"
+        },
+        "durationDays": 3
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth"
+      },
+      "why": "Three days remembering the people of Nineveh, who repented and fasted at the preaching of Jonah.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "abiy-tsome",
+      "am": "ዓቢይ ጾም / ሁዳዴ",
+      "tr": "Abiy Tsome",
+      "en": "The Great Fast",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "paschal",
+          "feast": "lentBegins"
+        },
+        "durationDays": 55
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only",
+        "vigilOn": [
+          {
+            "kind": "paschal",
+            "feast": "fasika",
+            "offset": -1
+          }
+        ]
+      },
+      "why": "Fifty-five days before Fasika, remembering the forty days Christ fasted in the wilderness, with Holy Week at its end.",
+      "icon": {
+        "file": "crucifixion-chester-beatty-w942",
+        "title": "The Crucifixion, from an Ethiopian prayer book",
+        "credit": "Ethiopia, 17th or early 18th century · Chester Beatty Library, Dublin (W 942), public domain"
+      },
+      "reviewStatus": "draft",
+      "note": "ICON chosen by the project owner, 17 Oct 2026 (content/icons/CREDITS.md). Review Sheet 4 (17 Oct 2026): suitable."
+    },
+    {
+      "id": "tsome-hawaryat",
+      "am": "ጾመ ሐዋርያት",
+      "tr": "Tsome Hawaryat",
+      "en": "The Fast of the Apostles",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "paschal",
+          "feast": "tsomeHawaryat"
+        },
+        "endExclusive": {
+          "kind": "fixed",
+          "month": 11,
+          "day": 5
+        }
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "Kept after Peraklitos, remembering the Apostles, who fasted before going out to preach.",
+      "icon": {
+        "file": "apostles-walters-36-7",
+        "title": "Mary and Her Son, with Christ Teaching the Apostles",
+        "credit": "Ethiopia, late 17th or early 18th century · Walters Art Museum, public domain"
+      },
+      "reviewStatus": "draft",
+      "note": "ICON chosen by the project owner, 17 Oct 2026 (content/icons/CREDITS.md). Review Sheet 4 (17 Oct 2026): suitable."
+    },
+    {
+      "id": "tsome-filseta",
+      "am": "ጾመ ፍልሰታ",
+      "tr": "Tsome Filseta",
+      "en": "The Fast of the Assumption",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "fixed",
+          "month": 12,
+          "day": 1
+        },
+        "durationDays": 15
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "Nehase 1 to 15, kept before the feast of the Assumption of Our Lady Mary on Nehase 16.",
+      "reviewStatus": "draft",
+      "note": "ANSWERED 28 Sep 2026: \"You fast for fifteen days, then on the sixteen day it breaks.\" Nehase 1-15. The feast on Nehase 16 now falls outside the period outright, so the `filseta-feast` dispensation that used to lift the final day is gone rather than rewritten."
+    }
+  ],
+  "dispensations": [
+    {
+      "id": "hamsa-qen",
+      "suspends": [
+        "tsome-dihnet"
+      ],
+      "from": {
+        "kind": "paschal",
+        "feast": "fasika"
+      },
+      "toInclusive": {
+        "kind": "paschal",
+        "feast": "peraklitos"
+      },
+      "reason": "ሃምሳ ቀን: the Fifty Days of the Resurrection. No fasting on Wednesday or Friday.",
+      "why": "From Fasika to Peraklitos the Church keeps the joy of the Resurrection, so Wednesday and Friday are not fast days.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "genna-feast",
+      "suspends": [
+        "tsome-dihnet"
+      ],
+      "from": {
+        "kind": "fixed",
+        "month": 4,
+        "day": 29,
+        "dayAfterLeap": 28
+      },
+      "toInclusive": {
+        "kind": "fixed",
+        "month": 4,
+        "day": 29,
+        "dayAfterLeap": 28
+      },
+      "reason": "ገና: on a Wednesday or Friday the fast is kept on the eve (Tsome Gahad) and the feast is kept on the day.",
+      "why": "Genna is kept as a feast; the fast is kept the day before.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "timket-feast",
+      "suspends": [
+        "tsome-dihnet"
+      ],
+      "from": {
+        "kind": "fixed",
+        "month": 5,
+        "day": 11
+      },
+      "toInclusive": {
+        "kind": "fixed",
+        "month": 5,
+        "day": 11
+      },
+      "reason": "ጥምቀት: the fast is kept on the eve (Tir 10, Tsome Gahad) and the feast is kept on the day.",
+      "why": "Timket is kept as a feast; the fast is kept the day before, on Tir 10.",
+      "reviewStatus": "draft"
+    }
+  ],
+  "reminderLines": [
+    {
+      "id": "first-meal",
+      "moment": "first-meal",
+      "fasts": [],
+      "text": "Today's fast is kept until this hour.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-nebiyat",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-nebiyat"
+      ],
+      "text": "The Fast of the Prophets is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-nenewe",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-nenewe"
+      ],
+      "text": "The Fast of Nineveh is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-abiy-tsome",
+      "moment": "first-meal",
+      "fasts": [
+        "abiy-tsome"
+      ],
+      "text": "The Great Fast is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-hawaryat",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-hawaryat"
+      ],
+      "text": "The Fast of the Apostles is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-filseta",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-filseta"
+      ],
+      "text": "The Fast of the Assumption is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-gahad",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-gahad-genna",
+        "tsome-gahad-timket"
+      ],
+      "text": "Today's vigil fast is kept until this hour.",
+      "reviewStatus": "draft"
+    }
+  ],
+  "patrons": [
+    {
+      "id": "patron-mikael",
+      "am": "ሚካኤል",
+      "tr": "Mikael",
+      "en": "Michael",
+      "day": {
+        "observance": "mikael"
+      },
+      "spellings": [
+        "mikael",
+        "michael",
+        "mikail",
+        "mikiel",
+        "mikhael",
+        "mickael",
+        "mikeal"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-gabriel",
+      "am": "ገብርኤል",
+      "tr": "Gabriel",
+      "en": "Gabriel",
+      "day": {
+        "observance": "gabriel"
+      },
+      "spellings": [
+        "gabriel",
+        "gebriel",
+        "gabryel",
+        "gebrael",
+        "gabrael"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-giyorgis",
+      "am": "ጊዮርጊስ",
+      "tr": "Giyorgis",
+      "en": "George",
+      "day": {
+        "observance": "giyorgis"
+      },
+      "spellings": [
+        "giyorgis",
+        "giorgis",
+        "georgis",
+        "gyorgis",
+        "george"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-mariam",
+      "am": "ማርያም",
+      "tr": "Mariam",
+      "en": "Mary",
+      "day": {
+        "observance": "egziete-maryam"
+      },
+      "spellings": [
+        "mariam",
+        "maryam",
+        "mariyam",
+        "mary"
+      ],
+      "reviewStatus": "draft",
+      "note": "Mary is kept on the 1st, 16th and 21st; the 21st is her day here (owner, 19 Oct 2026). For the deacon to confirm."
+    },
+    {
+      "id": "patron-selassie",
+      "am": "ሥላሴ",
+      "tr": "Selassie",
+      "en": "the Trinity",
+      "day": {
+        "observance": "selassie"
+      },
+      "spellings": [
+        "selassie",
+        "selasie",
+        "sellassie",
+        "silassie",
+        "sillassie",
+        "selase",
+        "sillase"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-medhin",
+      "am": "መድኅን",
+      "tr": "Medhin",
+      "en": "the Saviour",
+      "day": {
+        "observance": "medhane-alem"
+      },
+      "spellings": [
+        "medhin",
+        "medhen",
+        "medihin",
+        "medhane",
+        "medhanealem",
+        "medhanialem"
+      ],
+      "reviewStatus": "draft",
+      "note": "Gebre Medhin, servant of the Saviour, drafted to Medhane Alem on the 27th."
+    },
+    {
+      "id": "patron-tekle-haymanot",
+      "am": "ተክለ ሃይማኖት",
+      "tr": "Tekle Haymanot",
+      "en": "Tekle Haymanot",
+      "day": {
+        "observance": "tekle-haymanot"
+      },
+      "spellings": [
+        "teklehaymanot",
+        "teklehaimanot",
+        "teklahaymanot",
+        "teklahaimanot",
+        "teklehaymonot"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-gebre-menfes-kidus",
+      "am": "ገብረ መንፈስ ቅዱስ",
+      "tr": "Gebre Menfes Kidus",
+      "en": "Gebre Menfes Kidus",
+      "day": {
+        "observance": "abo"
+      },
+      "spellings": [
+        "gebremenfeskidus",
+        "gebremenfeskiddus",
+        "gebremenfesqidus",
+        "gabramanfasqeddus"
+      ],
+      "reviewStatus": "draft",
+      "note": "The whole name is Abune Gebre Menfes Kidus's own."
+    },
+    {
+      "id": "patron-kidane-mehret",
+      "am": "ኪዳነ ምሕረት",
+      "tr": "Kidane Mehret",
+      "en": "the Covenant of Mercy",
+      "day": {
+        "observance": "kidane-mehret"
+      },
+      "spellings": [
+        "kidanemehret",
+        "kidanemihret",
+        "kidanemeheret"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-iyesus",
+      "am": "ኢየሱስ",
+      "tr": "Iyesus",
+      "en": "Jesus",
+      "day": {
+        "observance": "medhane-alem"
+      },
+      "spellings": [
+        "iyesus",
+        "eyesus",
+        "yesus",
+        "iyasus"
+      ],
+      "reviewStatus": "draft",
+      "note": "Drafted to Medhane Alem on the 27th. The 27th or Ba'ale Wold on the 29th? For the deacon."
+    },
+    {
+      "id": "patron-kristos",
+      "am": "ክርስቶስ",
+      "tr": "Kristos",
+      "en": "Christ",
+      "day": {
+        "observance": "medhane-alem"
+      },
+      "spellings": [
+        "kristos",
+        "kiristos",
+        "christos",
+        "krestos"
+      ],
+      "reviewStatus": "draft",
+      "note": "As Iyesus: the 27th or the 29th? For the deacon."
+    },
+    {
+      "id": "patron-yohannes",
+      "am": "ዮሐንስ",
+      "tr": "Yohannes",
+      "en": "John",
+      "day": {
+        "saint": {
+          "am": "ቅዱስ ዮሐንስ መጥምቅ",
+          "tr": "Kidus Yohannes Metmik",
+          "en": "Saint John the Baptist"
+        },
+        "day": 30
+      },
+      "spellings": [
+        "yohannes",
+        "yohanes",
+        "yohhannes",
+        "johannes",
+        "john"
+      ],
+      "reviewStatus": "draft",
+      "note": "Drafted to John the Baptist on the 30th. A Yohannes may be named for John the Evangelist (the 4th) instead; for the deacon."
+    },
+    {
+      "id": "patron-estifanos",
+      "am": "እስጢፋኖስ",
+      "tr": "Estifanos",
+      "en": "Stephen",
+      "day": {
+        "saint": {
+          "am": "ቅዱስ እስጢፋኖስ",
+          "tr": "Kidus Estifanos",
+          "en": "Saint Stephen"
+        },
+        "day": 17
+      },
+      "spellings": [
+        "estifanos",
+        "istifanos",
+        "stefanos",
+        "stephanos",
+        "stephen"
+      ],
+      "reviewStatus": "draft",
+      "note": "The 17th drafted, not sure. For the deacon."
+    },
+    {
+      "id": "patron-petros",
+      "am": "ጴጥሮስ",
+      "tr": "Petros",
+      "en": "Peter",
+      "day": {
+        "saint": {
+          "am": "ቅዱሳን ጴጥሮስ ወጳውሎስ",
+          "tr": "Kidusan Petros we Pawlos",
+          "en": "Saints Peter and Paul"
+        },
+        "day": 5
+      },
+      "spellings": [
+        "petros",
+        "petrus",
+        "peter"
+      ],
+      "reviewStatus": "draft",
+      "note": "Their great day is Hamle 5; the 5th of every month drafted. For the deacon."
+    },
+    {
+      "id": "patron-paulos",
+      "am": "ጳውሎስ",
+      "tr": "Pawlos",
+      "en": "Paul",
+      "day": {
+        "saint": {
+          "am": "ቅዱሳን ጴጥሮስ ወጳውሎስ",
+          "tr": "Kidusan Petros we Pawlos",
+          "en": "Saints Peter and Paul"
+        },
+        "day": 5
+      },
+      "spellings": [
+        "pawlos",
+        "paulos",
+        "paul"
+      ],
+      "reviewStatus": "draft",
+      "note": "As Petros."
+    },
+    {
+      "id": "patron-kirkos",
+      "am": "ቂርቆስ",
+      "tr": "Kirkos",
+      "en": "Cyricus",
+      "day": {
+        "saint": {
+          "am": "ቅዱስ ቂርቆስ",
+          "tr": "Kidus Kirkos",
+          "en": "Saint Cyricus"
+        },
+        "day": 15
+      },
+      "spellings": [
+        "kirkos",
+        "qirqos",
+        "kirqos",
+        "cyricus"
+      ],
+      "reviewStatus": "draft",
+      "note": "Tir 15 is his great day; the 15th of every month drafted. For the deacon."
+    },
+    {
+      "id": "patron-yared",
+      "am": "ያሬድ",
+      "tr": "Yared",
+      "en": "Yared",
+      "day": {
+        "saint": {
+          "am": "ቅዱስ ያሬድ",
+          "tr": "Kidus Yared",
+          "en": "Saint Yared"
+        },
+        "month": 9,
+        "day": 11
+      },
+      "spellings": [
+        "yared",
+        "yarid"
+      ],
+      "reviewStatus": "draft",
+      "note": "Once a year, Ginbot 11, drafted. For the deacon."
+    },
+    {
+      "id": "patron-arsema",
+      "am": "አርሴማ",
+      "tr": "Arsema",
+      "en": "Arsema",
+      "day": {
+        "saint": {
+          "am": "ቅድስት አርሴማ",
+          "tr": "Kidist Arsema",
+          "en": "Saint Arsema"
+        },
+        "month": 1,
+        "day": 29
+      },
+      "spellings": [
+        "arsema",
+        "arsima",
+        "arsiema"
+      ],
+      "reviewStatus": "draft",
+      "note": "Meskerem 29 drafted; the least sure of these. For the deacon."
+    }
+  ],
+  "namePrefixes": [
+    {
+      "id": "prefix-gebre",
+      "am": "ገብረ",
+      "tr": "Gebre",
+      "en": "servant of",
+      "spellings": [
+        "gebre",
+        "gebra",
+        "gabre",
+        "gabra"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-wolde",
+      "am": "ወልደ",
+      "tr": "Wolde",
+      "en": "son of",
+      "spellings": [
+        "wolde",
+        "welde",
+        "walda",
+        "wold",
+        "weld"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-haile",
+      "am": "ኃይለ",
+      "tr": "Haile",
+      "en": "power of",
+      "spellings": [
+        "haile",
+        "hayle",
+        "haila"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-tekle",
+      "am": "ተክለ",
+      "tr": "Tekle",
+      "en": "plant of",
+      "spellings": [
+        "tekle",
+        "tekla"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-habte",
+      "am": "ሀብተ",
+      "tr": "Habte",
+      "en": "gift of",
+      "spellings": [
+        "habte",
+        "hapte",
+        "habta"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-fikre",
+      "am": "ፍቅረ",
+      "tr": "Fikre",
+      "en": "love of",
+      "spellings": [
+        "fikre",
+        "fiqre",
+        "fikra"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-tesfa",
+      "am": "ተስፋ",
+      "tr": "Tesfa",
+      "en": "hope of",
+      "spellings": [
+        "tesfa"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-kinfe",
+      "am": "ክንፈ",
+      "tr": "Kinfe",
+      "en": "wing of",
+      "spellings": [
+        "kinfe",
+        "kenfe"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-sahle",
+      "am": "ሣህለ",
+      "tr": "Sahle",
+      "en": "grace of",
+      "spellings": [
+        "sahle",
+        "sahile",
+        "sahla"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-welete",
+      "am": "ወለተ",
+      "tr": "Welete",
+      "en": "daughter of",
+      "spellings": [
+        "welete",
+        "wolete",
+        "weleta",
+        "walatta",
+        "woleta"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-amete",
+      "am": "አመተ",
+      "tr": "Amete",
+      "en": "handmaid of",
+      "spellings": [
+        "amete",
+        "amata",
+        "ammete",
+        "ameta"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-ihite",
+      "am": "እኅተ",
+      "tr": "Ihite",
+      "en": "sister of",
+      "spellings": [
+        "ihite",
+        "ehite",
+        "ihte",
+        "ehte",
+        "ehete"
+      ],
+      "reviewStatus": "draft"
+    }
+  ],
+  "withdrawn": [],
+  "contentHash": "869c33f9c9d500661005076126549b6282c059ea9ce6936676e119d020f55f0d"
+}
