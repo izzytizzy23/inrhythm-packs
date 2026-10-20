@@ -1,0 +1,1231 @@
+{
+  "packVersion": "eotc.draft.2a3e6cec30e4",
+  "tradition": "eotc",
+  "builtAtFloor": "draft",
+  "validYears": {
+    "from": 2018,
+    "to": 2039
+  },
+  "observances": [
+    {
+      "id": "enkutatash",
+      "am": "እንቁጣጣሽ",
+      "tr": "Enkutatash",
+      "en": "The New Year",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 1,
+        "day": 1
+      },
+      "why": "The New Year, Meskerem 1, kept with the feast of St John the Baptist.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "meskel",
+      "am": "መስቀል",
+      "tr": "Meskel",
+      "en": "The Finding of the True Cross",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 1,
+        "day": 17
+      },
+      "why": "The Finding of the True Cross, remembering Empress Helena's search for it.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "hidar-tsion",
+      "am": "ኅዳር ጽዮን",
+      "tr": "Hidar Tsion",
+      "en": "Saint Mary of Zion",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 3,
+        "day": 21
+      },
+      "why": "Honouring our mother Saint Mary, the fulfilment of Mount Zion.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "genna",
+      "am": "ገና / ልደት",
+      "tr": "Genna",
+      "en": "The Nativity of Our Lord",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 4,
+        "day": 29,
+        "dayAfterLeap": 28
+      },
+      "why": "The Nativity of Our Lord Jesus Christ.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "timket",
+      "am": "ጥምቀት",
+      "tr": "Timket",
+      "en": "The Baptism of Our Lord",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 5,
+        "day": 11
+      },
+      "why": "The Baptism of Our Lord in the Jordan.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kidane-mehret-annual",
+      "am": "ኪዳነ ምሕረት",
+      "tr": "Kidane Mehret",
+      "en": "The Covenant of Mercy",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 6,
+        "day": 16
+      },
+      "why": "Commemorating the Covenant of Mercy, the promise Christ made to his mother, Saint Mary, concerning mercy for those who seek her intercession.",
+      "reviewStatus": "draft",
+      "note": "Why replaced from Review Sheet 4, answer 7 (17 Oct 2026)."
+    },
+    {
+      "id": "debre-tabor",
+      "am": "ደብረ ታቦር / ቡሄ",
+      "tr": "Debre Tabor",
+      "en": "The Transfiguration",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 12,
+        "day": 13
+      },
+      "why": "The Transfiguration of Our Lord Jesus Christ, when he revealed his glory to his disciples.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "filseta",
+      "am": "ፍልሰታ ለማርያም",
+      "tr": "Filseta le-Maryam",
+      "en": "The Assumption of Our Lady Mary",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "fixed",
+        "month": 12,
+        "day": 16
+      },
+      "why": "The Assumption of Our Lady Mary, Nehase 16.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "debre-zeit",
+      "am": "ደብረ ዘይት",
+      "tr": "Debre Zeit",
+      "en": "The Mount of Olives",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "debreZeit"
+      },
+      "why": "The fifth Sunday of the Great Fast remembers Christ's teaching on the Mount of Olives about his Second Coming. It calls Christians to repentance and readiness for the final judgement.",
+      "reviewStatus": "draft",
+      "note": "Why from Review Sheet 4, answer 6 (17 Oct 2026)."
+    },
+    {
+      "id": "hosanna",
+      "am": "ሆሣዕና",
+      "tr": "Hosanna",
+      "en": "Palm Sunday",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "hosanna"
+      },
+      "why": "Christ's entry into Jerusalem, the Sunday before Fasika.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "siklet",
+      "am": "ስቅለት",
+      "tr": "Siklet",
+      "en": "Good Friday",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "siklet"
+      },
+      "why": "Good Friday, the Crucifixion of Our Lord.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fasika",
+      "am": "ትንሣኤ / ፋሲካ",
+      "tr": "Fasika",
+      "en": "The Resurrection of Our Lord",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "fasika"
+      },
+      "why": "The Resurrection of Our Lord, the greatest feast of the year.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "rikbe-kahnat",
+      "am": "ርክበ ካህናት",
+      "tr": "Rikbe Kahnat",
+      "en": "The Meeting of the Priests",
+      "rank": "major-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "rikbeKahnat"
+      },
+      "why": "Kept on a Wednesday in the season after Fasika, it recalls Christ's charge to Saint Peter to shepherd his flock. It also honours the gathering of the Church's bishops to guide the faithful and strengthen the Church.",
+      "reviewStatus": "draft",
+      "note": "Why from Review Sheet 4, answer 6 (17 Oct 2026)."
+    },
+    {
+      "id": "erget",
+      "am": "ዕርገት",
+      "tr": "Erget",
+      "en": "The Ascension",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "erget"
+      },
+      "why": "The Ascension of Our Lord, forty days after Fasika.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "peraklitos",
+      "am": "ጰራቅሊጦስ",
+      "tr": "Peraklitos",
+      "en": "Pentecost",
+      "rank": "great-feast",
+      "rule": {
+        "kind": "paschal",
+        "feast": "peraklitos"
+      },
+      "why": "The coming of the Holy Spirit on the Apostles, fifty days after Fasika.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ledeta-maryam",
+      "am": "ልደታ ለማርያም",
+      "tr": "Ledeta le-Maryam",
+      "en": "The Nativity of Saint Mary",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 1
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "abo",
+      "am": "አቡነ ገብረ መንፈስ ቅዱስ",
+      "tr": "Abune Gebre Menfes Kidus",
+      "en": "Abune Gebre Menfes Kidus",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 5
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "selassie",
+      "am": "ሥላሴ",
+      "tr": "Selassie",
+      "en": "The Holy Trinity",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 7
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mikael",
+      "am": "ቅዱስ ሚካኤል",
+      "tr": "Kidus Mikael",
+      "en": "Saint Michael the Archangel",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 12
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kidane-mehret",
+      "am": "ኪዳነ ምሕረት",
+      "tr": "Kidane Mehret",
+      "en": "The Covenant of Mercy",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 16
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gabriel",
+      "am": "ቅዱስ ገብርኤል",
+      "tr": "Kidus Gabriel",
+      "en": "Saint Gabriel the Archangel",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 19
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "egziete-maryam",
+      "am": "እግዝእትነ ማርያም",
+      "tr": "Egzi'tine Maryam",
+      "en": "Our Lady Saint Mary",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 21
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "giyorgis",
+      "am": "ቅዱስ ጊዮርጊስ",
+      "tr": "Kidus Giyorgis",
+      "en": "Saint George",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 23
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tekle-haymanot",
+      "am": "አቡነ ተክለ ሃይማኖት",
+      "tr": "Abune Tekle Haymanot",
+      "en": "Abune Tekle Haymanot",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 24
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "medhane-alem",
+      "am": "መድኃኔ ዓለም",
+      "tr": "Medhane Alem",
+      "en": "The Saviour of the World",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 27
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "baale-wold",
+      "am": "በዓለ ወልድ",
+      "tr": "Ba'ale Wold",
+      "en": "The Nativity of Our Lord",
+      "rank": "monthly",
+      "rule": {
+        "kind": "monthly",
+        "day": 29
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tsome-dihnet",
+      "am": "ጾመ ድኅነት",
+      "tr": "Tsome Dihnet",
+      "en": "The Fast of Salvation",
+      "rank": "fast",
+      "rule": {
+        "kind": "weekday",
+        "days": [
+          3,
+          5
+        ]
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth"
+      },
+      "why": "On Wednesday the Church remembers the counsel taken against Christ, and on Friday his Crucifixion. So both are fast days through the year.",
+      "icon": {
+        "file": "virgin-and-child-walters-36-12",
+        "title": "Mary and Her Son Flanked by Archangels, Apostles and a Saint",
+        "credit": "Follower of Fre Seyon, Ethiopia, late 15th century · Walters Art Museum, public domain"
+      },
+      "reviewStatus": "draft",
+      "note": "ICON chosen by the project owner, 16 Oct 2026 (content/icons/CREDITS.md). Review Sheet 4 (17 Oct 2026): suitable."
+    },
+    {
+      "id": "tsome-nebiyat",
+      "am": "ጾመ ነቢያት",
+      "tr": "Tsome Nebiyat",
+      "en": "The Fast of the Prophets",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "fixed",
+          "month": 3,
+          "day": 15
+        },
+        "endExclusive": {
+          "kind": "fixed",
+          "month": 4,
+          "day": 29,
+          "dayAfterLeap": 28
+        }
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "Kept before Genna, remembering the prophets who foretold and awaited the coming of Christ.",
+      "icon": {
+        "file": "nativity-diptych-nmafa",
+        "title": "The Nativity, with the Annunciation, the Magi and the life of Mary",
+        "credit": "Ethiopia, 17th century · National Museum of African Art, Smithsonian, CC0"
+      },
+      "reviewStatus": "draft",
+      "note": "ANSWERED 28 Sep 2026: begins Hidar 16, not 15. Ends where it always did, the day before Tsome Gahad on Tahsas 28, expressed as an endpoint rather than the old 43-day count so that moving the start cannot drag the end with it. Hidar 16 to Tahsas 27 is 42 days. UPDATED 15 Oct 2026 by the project owner: the fast runs through the eve of Genna (Tahsas 28, or 27 in the year after an Ethiopic leap year), so it always ends on 6 January, 43 days from Hidar 16. Before a Wednesday or Friday Genna the eve is also Tsome Gahad. This replaces the reviewer's end on Tahsas 27, and keeps the eve a fast day every year (the safety rule). ANSWERED on Review Sheet 4 (17 Oct 2026): the end is right, and the fast begins on Hidar 15, so it runs 24 November to 6 January (25 November after an Ethiopic leap year). ICON added 16 Oct 2026 at the owner's request (content/icons/CREDITS.md); Review Sheet 4: suitable."
+    },
+    {
+      "id": "tsome-gahad-genna",
+      "am": "ጾመ ገሃድ",
+      "tr": "Tsome Gahad",
+      "en": "The Vigil of the Nativity",
+      "rank": "fast",
+      "rule": {
+        "kind": "fixed",
+        "month": 4,
+        "day": 28,
+        "dayAfterLeap": 27
+      },
+      "onlyIfNextDayIs": [
+        3,
+        5
+      ],
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "When Genna falls on a Wednesday or a Friday, Genna is kept as a feast and the fast moves to its eve.",
+      "reviewStatus": "draft",
+      "note": "DECIDED 15 Oct 2026 by the project owner: Gahad is kept only when Genna falls on a Wednesday or Friday, and that Genna is then free of the fast (dispensation genna-feast). Review Sheet 4 (17 Oct 2026): the reviewer AGREES, withdrawing the earlier answers below as too broad. Earlier: 28 Sep they placed the end of Tsome Nebiyat on \"the day before Tsome Gahad on Tahsas 28\", reading Gahad as every year, and on Review Sheet 2 they said moving the fast to the eve \"only applies to Timket\". The eve is still a fast day every year, as the last day of Tsome Nebiyat (also decided 15 Oct 2026). Both confirmed on Review Sheet 4 (17 Oct 2026). Also 15 Oct 2026: Genna, this eve, the end of Tsome Nebiyat and genna-feast all move a day earlier in the year after an Ethiopic leap year, so Genna stays on 7 January; before this, 2028 and 2032 showed Genna on 8 January."
+    },
+    {
+      "id": "tsome-gahad-timket",
+      "am": "ጾመ ገሃድ",
+      "tr": "Tsome Gahad",
+      "en": "The Vigil of the Baptism",
+      "rank": "fast",
+      "rule": {
+        "kind": "fixed",
+        "month": 5,
+        "day": 10
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "The eve of Timket, Tir 10, is a fast day, kept to prepare for the Baptism of Our Lord.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tsome-nenewe",
+      "am": "ጾመ ነነዌ",
+      "tr": "Tsome Nenewe",
+      "en": "The Fast of Nineveh",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "paschal",
+          "feast": "nineveh"
+        },
+        "durationDays": 3
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth"
+      },
+      "why": "Three days remembering the people of Nineveh, who repented and fasted at the preaching of Jonah.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "abiy-tsome",
+      "am": "ዓቢይ ጾም / ሁዳዴ",
+      "tr": "Abiy Tsome",
+      "en": "The Great Fast",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "paschal",
+          "feast": "lentBegins"
+        },
+        "durationDays": 55
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only",
+        "vigilOn": [
+          {
+            "kind": "paschal",
+            "feast": "fasika",
+            "offset": -1
+          }
+        ]
+      },
+      "why": "Fifty-five days before Fasika, remembering the forty days Christ fasted in the wilderness, with Holy Week at its end.",
+      "icon": {
+        "file": "crucifixion-chester-beatty-w942",
+        "title": "The Crucifixion, from an Ethiopian prayer book",
+        "credit": "Ethiopia, 17th or early 18th century · Chester Beatty Library, Dublin (W 942), public domain"
+      },
+      "reviewStatus": "draft",
+      "note": "ICON chosen by the project owner, 17 Oct 2026 (content/icons/CREDITS.md). Review Sheet 4 (17 Oct 2026): suitable."
+    },
+    {
+      "id": "tsome-hawaryat",
+      "am": "ጾመ ሐዋርያት",
+      "tr": "Tsome Hawaryat",
+      "en": "The Fast of the Apostles",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "paschal",
+          "feast": "tsomeHawaryat"
+        },
+        "endExclusive": {
+          "kind": "fixed",
+          "month": 11,
+          "day": 5
+        }
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "Kept after Peraklitos, remembering the Apostles, who fasted before going out to preach.",
+      "icon": {
+        "file": "apostles-walters-36-7",
+        "title": "Mary and Her Son, with Christ Teaching the Apostles",
+        "credit": "Ethiopia, late 17th or early 18th century · Walters Art Museum, public domain"
+      },
+      "reviewStatus": "draft",
+      "note": "ICON chosen by the project owner, 17 Oct 2026 (content/icons/CREDITS.md). Review Sheet 4 (17 Oct 2026): suitable."
+    },
+    {
+      "id": "tsome-filseta",
+      "am": "ጾመ ፍልሰታ",
+      "tr": "Tsome Filseta",
+      "en": "The Fast of the Assumption",
+      "rank": "fast",
+      "rule": {
+        "kind": "period",
+        "start": {
+          "kind": "fixed",
+          "month": 12,
+          "day": 1
+        },
+        "durationDays": 15
+      },
+      "fast": {
+        "abstain": "animal-products",
+        "firstMealHour": "ninth",
+        "weekends": "abstain-only"
+      },
+      "why": "Nehase 1 to 15, kept before the feast of the Assumption of Our Lady Mary on Nehase 16.",
+      "reviewStatus": "draft",
+      "note": "ANSWERED 28 Sep 2026: \"You fast for fifteen days, then on the sixteen day it breaks.\" Nehase 1-15. The feast on Nehase 16 now falls outside the period outright, so the `filseta-feast` dispensation that used to lift the final day is gone rather than rewritten."
+    }
+  ],
+  "dispensations": [
+    {
+      "id": "hamsa-qen",
+      "suspends": [
+        "tsome-dihnet"
+      ],
+      "from": {
+        "kind": "paschal",
+        "feast": "fasika"
+      },
+      "toInclusive": {
+        "kind": "paschal",
+        "feast": "peraklitos"
+      },
+      "reason": "ሃምሳ ቀን: the Fifty Days of the Resurrection. No fasting on Wednesday or Friday.",
+      "why": "From Fasika to Peraklitos the Church keeps the joy of the Resurrection, so Wednesday and Friday are not fast days.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "genna-feast",
+      "suspends": [
+        "tsome-dihnet"
+      ],
+      "from": {
+        "kind": "fixed",
+        "month": 4,
+        "day": 29,
+        "dayAfterLeap": 28
+      },
+      "toInclusive": {
+        "kind": "fixed",
+        "month": 4,
+        "day": 29,
+        "dayAfterLeap": 28
+      },
+      "reason": "ገና: on a Wednesday or Friday the fast is kept on the eve (Tsome Gahad) and the feast is kept on the day.",
+      "why": "Genna is kept as a feast; the fast is kept the day before.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "timket-feast",
+      "suspends": [
+        "tsome-dihnet"
+      ],
+      "from": {
+        "kind": "fixed",
+        "month": 5,
+        "day": 11
+      },
+      "toInclusive": {
+        "kind": "fixed",
+        "month": 5,
+        "day": 11
+      },
+      "reason": "ጥምቀት: the fast is kept on the eve (Tir 10, Tsome Gahad) and the feast is kept on the day.",
+      "why": "Timket is kept as a feast; the fast is kept the day before, on Tir 10.",
+      "reviewStatus": "draft"
+    }
+  ],
+  "reminderLines": [
+    {
+      "id": "first-meal",
+      "moment": "first-meal",
+      "fasts": [],
+      "text": "Today's fast is kept until this hour.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-nebiyat",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-nebiyat"
+      ],
+      "text": "The Fast of the Prophets is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-nenewe",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-nenewe"
+      ],
+      "text": "The Fast of Nineveh is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-abiy-tsome",
+      "moment": "first-meal",
+      "fasts": [
+        "abiy-tsome"
+      ],
+      "text": "The Great Fast is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-hawaryat",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-hawaryat"
+      ],
+      "text": "The Fast of the Apostles is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-filseta",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-filseta"
+      ],
+      "text": "The Fast of the Assumption is kept until this hour today.",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "first-meal-gahad",
+      "moment": "first-meal",
+      "fasts": [
+        "tsome-gahad-genna",
+        "tsome-gahad-timket"
+      ],
+      "text": "Today's vigil fast is kept until this hour.",
+      "reviewStatus": "draft"
+    }
+  ],
+  "patrons": [
+    {
+      "id": "patron-mikael",
+      "am": "ሚካኤል",
+      "tr": "Mikael",
+      "en": "Michael",
+      "day": {
+        "observance": "mikael"
+      },
+      "spellings": [
+        "mikael",
+        "michael",
+        "mikail",
+        "mikiel",
+        "mikhael",
+        "mickael",
+        "mikeal"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-gabriel",
+      "am": "ገብርኤል",
+      "tr": "Gabriel",
+      "en": "Gabriel",
+      "day": {
+        "observance": "gabriel"
+      },
+      "spellings": [
+        "gabriel",
+        "gebriel",
+        "gabryel",
+        "gebrael",
+        "gabrael"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-giyorgis",
+      "am": "ጊዮርጊስ",
+      "tr": "Giyorgis",
+      "en": "George",
+      "day": {
+        "observance": "giyorgis"
+      },
+      "spellings": [
+        "giyorgis",
+        "giorgis",
+        "georgis",
+        "gyorgis",
+        "george"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-mariam",
+      "am": "ማርያም",
+      "tr": "Mariam",
+      "en": "Mary",
+      "day": {
+        "observance": "egziete-maryam"
+      },
+      "spellings": [
+        "mariam",
+        "maryam",
+        "mariyam",
+        "mary"
+      ],
+      "reviewStatus": "draft",
+      "note": "Mary is kept on the 1st, 16th and 21st; the 21st is her day here (owner, 19 Oct 2026). For the deacon to confirm."
+    },
+    {
+      "id": "patron-selassie",
+      "am": "ሥላሴ",
+      "tr": "Selassie",
+      "en": "the Trinity",
+      "day": {
+        "observance": "selassie"
+      },
+      "spellings": [
+        "selassie",
+        "selasie",
+        "sellassie",
+        "silassie",
+        "sillassie",
+        "selase",
+        "sillase"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-medhin",
+      "am": "መድኅን",
+      "tr": "Medhin",
+      "en": "the Saviour",
+      "day": {
+        "observance": "medhane-alem"
+      },
+      "spellings": [
+        "medhin",
+        "medhen",
+        "medihin",
+        "medhane",
+        "medhanealem",
+        "medhanialem"
+      ],
+      "reviewStatus": "draft",
+      "note": "Gebre Medhin, servant of the Saviour, drafted to Medhane Alem on the 27th."
+    },
+    {
+      "id": "patron-tekle-haymanot",
+      "am": "ተክለ ሃይማኖት",
+      "tr": "Tekle Haymanot",
+      "en": "Tekle Haymanot",
+      "day": {
+        "observance": "tekle-haymanot"
+      },
+      "spellings": [
+        "teklehaymanot",
+        "teklehaimanot",
+        "teklahaymanot",
+        "teklahaimanot",
+        "teklehaymonot"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-gebre-menfes-kidus",
+      "am": "ገብረ መንፈስ ቅዱስ",
+      "tr": "Gebre Menfes Kidus",
+      "en": "Gebre Menfes Kidus",
+      "day": {
+        "observance": "abo"
+      },
+      "spellings": [
+        "gebremenfeskidus",
+        "gebremenfeskiddus",
+        "gebremenfesqidus",
+        "gabramanfasqeddus"
+      ],
+      "reviewStatus": "draft",
+      "note": "The whole name is Abune Gebre Menfes Kidus's own."
+    },
+    {
+      "id": "patron-kidane-mehret",
+      "am": "ኪዳነ ምሕረት",
+      "tr": "Kidane Mehret",
+      "en": "the Covenant of Mercy",
+      "day": {
+        "observance": "kidane-mehret"
+      },
+      "spellings": [
+        "kidanemehret",
+        "kidanemihret",
+        "kidanemeheret"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "patron-iyesus",
+      "am": "ኢየሱስ",
+      "tr": "Iyesus",
+      "en": "Jesus",
+      "day": {
+        "observance": "medhane-alem"
+      },
+      "spellings": [
+        "iyesus",
+        "eyesus",
+        "yesus",
+        "iyasus"
+      ],
+      "reviewStatus": "draft",
+      "note": "Drafted to Medhane Alem on the 27th. The 27th or Ba'ale Wold on the 29th? For the deacon."
+    },
+    {
+      "id": "patron-kristos",
+      "am": "ክርስቶስ",
+      "tr": "Kristos",
+      "en": "Christ",
+      "day": {
+        "observance": "medhane-alem"
+      },
+      "spellings": [
+        "kristos",
+        "kiristos",
+        "christos",
+        "krestos"
+      ],
+      "reviewStatus": "draft",
+      "note": "As Iyesus: the 27th or the 29th? For the deacon."
+    },
+    {
+      "id": "patron-yohannes",
+      "am": "ዮሐንስ",
+      "tr": "Yohannes",
+      "en": "John",
+      "day": {
+        "saint": {
+          "am": "ቅዱስ ዮሐንስ መጥምቅ",
+          "tr": "Kidus Yohannes Metmik",
+          "en": "Saint John the Baptist"
+        },
+        "day": 30
+      },
+      "spellings": [
+        "yohannes",
+        "yohanes",
+        "yohhannes",
+        "johannes",
+        "john"
+      ],
+      "reviewStatus": "draft",
+      "note": "Drafted to John the Baptist on the 30th. A Yohannes may be named for John the Evangelist (the 4th) instead; for the deacon."
+    },
+    {
+      "id": "patron-estifanos",
+      "am": "እስጢፋኖስ",
+      "tr": "Estifanos",
+      "en": "Stephen",
+      "day": {
+        "saint": {
+          "am": "ቅዱስ እስጢፋኖስ",
+          "tr": "Kidus Estifanos",
+          "en": "Saint Stephen"
+        },
+        "day": 17
+      },
+      "spellings": [
+        "estifanos",
+        "istifanos",
+        "stefanos",
+        "stephanos",
+        "stephen"
+      ],
+      "reviewStatus": "draft",
+      "note": "The 17th drafted, not sure. For the deacon."
+    },
+    {
+      "id": "patron-petros",
+      "am": "ጴጥሮስ",
+      "tr": "Petros",
+      "en": "Peter",
+      "day": {
+        "saint": {
+          "am": "ቅዱሳን ጴጥሮስ ወጳውሎስ",
+          "tr": "Kidusan Petros we Pawlos",
+          "en": "Saints Peter and Paul"
+        },
+        "day": 5
+      },
+      "spellings": [
+        "petros",
+        "petrus",
+        "peter"
+      ],
+      "reviewStatus": "draft",
+      "note": "Their great day is Hamle 5; the 5th of every month drafted. For the deacon."
+    },
+    {
+      "id": "patron-paulos",
+      "am": "ጳውሎስ",
+      "tr": "Pawlos",
+      "en": "Paul",
+      "day": {
+        "saint": {
+          "am": "ቅዱሳን ጴጥሮስ ወጳውሎስ",
+          "tr": "Kidusan Petros we Pawlos",
+          "en": "Saints Peter and Paul"
+        },
+        "day": 5
+      },
+      "spellings": [
+        "pawlos",
+        "paulos",
+        "paul"
+      ],
+      "reviewStatus": "draft",
+      "note": "As Petros."
+    },
+    {
+      "id": "patron-kirkos",
+      "am": "ቂርቆስ",
+      "tr": "Kirkos",
+      "en": "Cyricus",
+      "day": {
+        "saint": {
+          "am": "ቅዱስ ቂርቆስ",
+          "tr": "Kidus Kirkos",
+          "en": "Saint Cyricus"
+        },
+        "day": 15
+      },
+      "spellings": [
+        "kirkos",
+        "qirqos",
+        "kirqos",
+        "cyricus"
+      ],
+      "reviewStatus": "draft",
+      "note": "Tir 15 is his great day; the 15th of every month drafted. For the deacon."
+    },
+    {
+      "id": "patron-yared",
+      "am": "ያሬድ",
+      "tr": "Yared",
+      "en": "Yared",
+      "day": {
+        "saint": {
+          "am": "ቅዱስ ያሬድ",
+          "tr": "Kidus Yared",
+          "en": "Saint Yared"
+        },
+        "month": 9,
+        "day": 11
+      },
+      "spellings": [
+        "yared",
+        "yarid"
+      ],
+      "reviewStatus": "draft",
+      "note": "Once a year, Ginbot 11, drafted. For the deacon."
+    },
+    {
+      "id": "patron-arsema",
+      "am": "አርሴማ",
+      "tr": "Arsema",
+      "en": "Arsema",
+      "day": {
+        "saint": {
+          "am": "ቅድስት አርሴማ",
+          "tr": "Kidist Arsema",
+          "en": "Saint Arsema"
+        },
+        "month": 1,
+        "day": 29
+      },
+      "spellings": [
+        "arsema",
+        "arsima",
+        "arsiema"
+      ],
+      "reviewStatus": "draft",
+      "note": "Meskerem 29 drafted; the least sure of these. For the deacon."
+    }
+  ],
+  "namePrefixes": [
+    {
+      "id": "prefix-gebre",
+      "am": "ገብረ",
+      "tr": "Gebre",
+      "en": "servant of",
+      "spellings": [
+        "gebre",
+        "gebra",
+        "gabre",
+        "gabra"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-wolde",
+      "am": "ወልደ",
+      "tr": "Wolde",
+      "en": "son of",
+      "spellings": [
+        "wolde",
+        "welde",
+        "walda",
+        "wold",
+        "weld"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-haile",
+      "am": "ኃይለ",
+      "tr": "Haile",
+      "en": "power of",
+      "spellings": [
+        "haile",
+        "hayle",
+        "haila"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-tekle",
+      "am": "ተክለ",
+      "tr": "Tekle",
+      "en": "plant of",
+      "spellings": [
+        "tekle",
+        "tekla"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-habte",
+      "am": "ሀብተ",
+      "tr": "Habte",
+      "en": "gift of",
+      "spellings": [
+        "habte",
+        "hapte",
+        "habta"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-fikre",
+      "am": "ፍቅረ",
+      "tr": "Fikre",
+      "en": "love of",
+      "spellings": [
+        "fikre",
+        "fiqre",
+        "fikra"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-tesfa",
+      "am": "ተስፋ",
+      "tr": "Tesfa",
+      "en": "hope of",
+      "spellings": [
+        "tesfa"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-kinfe",
+      "am": "ክንፈ",
+      "tr": "Kinfe",
+      "en": "wing of",
+      "spellings": [
+        "kinfe",
+        "kenfe"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-sahle",
+      "am": "ሣህለ",
+      "tr": "Sahle",
+      "en": "grace of",
+      "spellings": [
+        "sahle",
+        "sahile",
+        "sahla"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-welete",
+      "am": "ወለተ",
+      "tr": "Welete",
+      "en": "daughter of",
+      "spellings": [
+        "welete",
+        "wolete",
+        "weleta",
+        "walatta",
+        "woleta"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-amete",
+      "am": "አመተ",
+      "tr": "Amete",
+      "en": "handmaid of",
+      "spellings": [
+        "amete",
+        "amata",
+        "ammete",
+        "ameta"
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prefix-ihite",
+      "am": "እኅተ",
+      "tr": "Ihite",
+      "en": "sister of",
+      "spellings": [
+        "ihite",
+        "ehite",
+        "ihte",
+        "ehte",
+        "ehete"
+      ],
+      "reviewStatus": "draft"
+    }
+  ],
+  "readings": [
+    {
+      "id": "senkessar-tikimt-10",
+      "month": 2,
+      "day": 10,
+      "reviewStatus": "draft",
+      "title": {
+        "am": "ስንክሳር ጥቅምት ፲",
+        "tr": "Senkessar, Tikimt 10",
+        "en": "Eumenius of Alexandria, and Sergius the Martyr"
+      },
+      "text": "On this day died the pure and holy virgin Eunomius (Eumenius), who was the seventh Archbishop of the city of Alexandria from Mark the apostle. Saint Abremius appointed this holy man deacon and he served the office of deacon for ten years. When Justus was appointed archbishop and he saw the virtues of this holy man, and the orthodoxy of his faith, and his knowledge, he appointed him priest, and he commanded him to teach the believers of the holy church of Alexandria the Ordinances of the Church. When Justus died this father was appointed archbishop, and he handed over the work of the churches and the teaching of the believers to Father Marcianus. And he debated continually with the wicked men and pagans, and he turned sinners from their errors, and shewed them plainly the Divinity of our Lord Jesus Christ, and he said unto them, “He is equal with His Father and with the Holy Spirit, One God.” He continued in his office for thirteen years, and he died on the twentieth day of the month Tekemt, in the sixth year of the reign of the Emperor Antonius.\n\nAnd in his days Saint Sophia and her three children became martyrs. Salutation to Eunomius (Eumenius).\n\nAnd on this day also Sergius, the companion of Bacchus, became a martyr. This holy man was from Sergatia, [and] from the palace of the Emperor Maximianus. And after the emperor had punished them he sent them to Antiochus, a governor in the country of Syria, and he tortured Saint Bacchus, and he beat him so severely that he yielded up his spirit. And he commanded his soldiers to cast his body into the River Euphrates, but God protected it and brought it to the river bank. And God sent to it a lion and a wolf, and they protected it until God commanded certain saints who lived there, and they went and fetched the body of Saint Bacchus and brought and laid it by them. And Saint Sergius sorrowed and wept because of it, and he saw a vision by night in which he seemed to see his brother Bacchus in a beautiful palace, and he himself was shining brightly; and the soul of Sergius was comforted by reason of the vision which he had seen. And after this the governor commanded his soldiers to drive long iron pegs into the feet of Saint Sergius, and he sent him to the city of Rosafa in charge of horsemen, and he had to run by their side, and when they galloped his blood flowed down upon the ground. And he met on the road a certain woman who was a virgin, and he drank water from her, and she felt compassion for him, and she pitied his youth and his fine form. And he said unto her, “Come thou, follow me to the city of Rosafa so that thou mayest take my body”; and the virgin followed him to the city of Rusafa. And the governor commanded, saying, “If Sergius will not obey my command and offer up sacrifice to my gods, the soldiers shall cut off his head with the sword.” And they cut off his head with the sword which was in the governor’s hand. Now the governor did not wish them to cut off the head of Saint Sergius, because he was a friend of the holy man, and it was through him that he had obtained his office. And that virgin drew nigh to Saint Sergius having some hair cloth with her, and she received in it the precious blood which flowed from the neck of the saint. And she took care of his body until the end of the days of the persecution, and then they built a fine church in the city of Rusafa, and fifteen bishops consecrated it and they laid his body therein. And very many miracles and great wonders took place through it, and that church subsisteth to this day. And the body of Saint Sergius resteth in it, and there distilleth from it in the marble sarcophagus a perfumed oil the odour of which is exceedingly sweet, and it healeth people who are sick with any kind of sickness. Salutation to Sergius.\n\nAnd on this day also died John the priest, and fighter. When his head was shaved, because of his excessive righteousness, they did not soak (i.e. soften) it with water. His father was Abba Gabra Nazrawi of Kawat. Salutation to John the priest.",
+      "source": "E. A. Wallis Budge, The Book of the Saints of the Ethiopian Church (Cambridge, 1928), volume 1, pages 135 to 137. Public domain. The scanned text, corrected for scanning errors only.",
+      "note": "Budge's text, unchanged but for scanning errors: page headers and folio marks removed, line-end hyphens joined, names in small capitals set in title case, quotation marks restored. The opening invocation, the same every day, is left out: for the deacon whether to show it. Scanner slips fixed by hand: sopura to Sophia (Saint Sophia and her three children), JouN to John. Coptic Synaxarium, Baba 10: Sergius only; Eumenius is not on the Coptic day, and Budge's own text says he died on the twentieth of Tekemt. For the deacon. John the priest, son of Abba Gabra Nazrawi, is an Ethiopian saint, so not in the Coptic book."
+    },
+    {
+      "id": "senkessar-tikimt-11",
+      "month": 2,
+      "day": 11,
+      "reviewStatus": "draft",
+      "title": {
+        "am": "ስንክሳር ጥቅምት ፲፩",
+        "tr": "Senkessar, Tikimt 11",
+        "en": "James of Antioch, and Pelagia"
+      },
+      "text": "On this day died the holy father, Abba James, Archbishop of the city of Antioch. Great tribulation fell upon this holy man, and [the emperor] exiled him because of the orthodoxy of his faith, and he remained in exile many days. Then the men of the city of Antioch sent and brought him back, and he lived there for a few days; and then the men of Arius drove him forth again, and he remained during the second period of exile seven years; and he died in peace. Salutation to James, the Lamp of Antioch.\n\nAnd on this day also died Saint Pelagia. This holy woman was a native of the city of Antioch, and her parents were infidels, and together with a corrupt faith she acquired a corrupt manner of life; and this fell out thus. She used to live in a playhouse, and she played a tambourine and sang and danced, and laughed and joked, and amused the people. And a certain holy man, a bishop whose name was Paul, found her, and he rebuked her, and reminded her of the fire of Gahanam (Gehenna) and everlasting punishment. And his reproof entered her heart and she believed on our Lord Christ through him, and she confessed to him everything which she had done, and he encouraged her, and taught her not to despair through repentance, and the mercy of God. Then he baptized her with Christian baptism in the Name of the Father and the Son and the Holy Spirit, and she was illumined by the grace of the Holy Spirit by baptism. And she entered into penitence with a firm heart and a pure mind, and she made her body to endure toil and she brought it low; then she dressed herself in the garb of a man, and she went into Jerusalem, and worshipped in all the churches. And she returned to Abba Alexander, Archbishop of the city of Jerusalem, and he sent her to one of the houses of virgins which are outside Jerusalem. And she dwelt therein, and she put on the garb of the nun, and she strove strenuously in the ascetic life for a period of forty years, and she was well-pleasing to God, and she died in peace. Salutation to Pelagia.",
+      "source": "E. A. Wallis Budge, The Book of the Saints of the Ethiopian Church (Cambridge, 1928), volume 1, pages 137 to 139. Public domain. The scanned text, corrected for scanning errors only.",
+      "note": "Budge's text, unchanged but for scanning errors: page headers and folio marks removed, line-end hyphens joined, names in small capitals set in title case, quotation marks restored. The opening invocation, the same every day, is left out: for the deacon whether to show it. Left out: one more commemoration ('the contending of' a name the scan garbles), which Budge notes is missing from the Bodleian manuscript; to be checked against the printed page. Coptic Synaxarium, Baba 11: James of Antioch and Pelagia, as here."
+    },
+    {
+      "id": "senkessar-tikimt-12",
+      "month": 2,
+      "day": 12,
+      "reviewStatus": "draft",
+      "title": {
+        "am": "ስንክሳር ጥቅምት ፲፪",
+        "tr": "Senkessar, Tikimt 12",
+        "en": "Saint Michael the Archangel, Matthew the Apostle, and Demetrius of Alexandria"
+      },
+      "text": "On this day is celebrated the commemorative feast of the glorious angel, Michael the archangel. On this day God sent Michael to Samuel the prophet whilst he was in the sanctuary, and commanded him to go to the house of Jesse, the father of David, in Bethlehem to anoint his son David king over the children of Israel. And Samuel went to Jesse, and he said unto him, “Bring hither all thy sons”; and Jesse brought them [all] with the exception of David, who was tending the sheep in the fields. When Samuel raised the horn of oil of kings over the heads of the sons of Jesse, [he saw that] God was not pleased with them. And Samuel said unto Jesse, “Doth there not remain unto thee some other son?” And Jesse said unto him, “There remaineth the youth, the youngest of them, who is herding the sheep in the fields.” And Samuel said unto him, “Bring him hither”; and Jesse brought him. And straightway Samuel took up the horn of oil of kings, and anointed him, and God was pleased with him, and he reigned over the children of Israel. And on this day also God sent Saint Michael the archangel to David the prophet, and he helped him and gave him strength to slay Goliath, the giant of the Philistines, and deliver the children of Israel. For this reason the doctors of the Church have commanded and ordained that the people shall keep a festival in honour of Saint Michael on the twenty-second day of this month. Salutation to Saint Michael.\n\nAnd on this day Saint Matthew the apostle and evangelist, one of the Twelve Apostles, became a martyr, after he had preached in the cities of the priests, and converted them to the knowledge of God. Now it happened that when he wished to go into the city of priests, he found a certain young man who said unto him, “Thou wilt not be able to go into this city unless thou shavest off the hair of thy head and thy beard, and carriest palm branches in thy hand.” And he did even as the young man commanded him, and as he was sorrowing because of this, straightway our Lord Jesus Christ appeared unto him under a form which he knew, that is to say, the form of the young man who had spoken unto him; and He encouraged and consoled him and then disappeared from him. When Saint Matthew had entered into the city, he made himself unseen by the people, like one of the priests. And he went to the temple of Apollo, and found the high priest, and talked with him concerning the gods, and Saint Matthew made him to know that they were not gods; and he wrought miracles and wonders before him, and light rose upon them, and a table came down to them from heaven. When Hermes the priest saw this wonderful thing he said unto Saint Matthew, “What is the name of your god?” And he said, “The Name of my God is Christ,’ and straightway Hermes the priest believed on our Lord Jesus Christ, and many people believed with him. When the king of this city heard this thing he commanded his soldiers to burn them in the fire. And at the moment the son of the king died, and Saint Matthew made supplication to our Lord Christ, and he raised the king’s son from the dead; and straightway the king and all the men of the city believed. Then Saint Matthew appointed a bishop and priests over them, and he built a church for them, and he went forth from the city to the cities which were outside, and he converted them and brought them to the knowledge of God. Before this Saint Thomas had been to the City of the Blessed, and he saw our Lord coming to them at all times, having with Him the souls of babes, which were in number eighteen thousand. And on the first day of every feast our Lord Christ cometh to them, and with Him are His angels. And these blessed ones are they to whom Simas the desert priest went, and he was witness of their strifes, and of their marvellous works. After this Saint Matthew the apostle and evangelist went to the city of Jerusalem, and the land of Judah, and he wrote his Gospel in the Hebrew language. Then he went to the city which is outside, and he found therein a certain man who was in prison; now Saint Matthew used to visit those who were shut up in prison. And the man had to pay back to his lord the money which he had given him to trade therewith, together with a profit thereon, but he dropped it into the sea and lost it. And Saint Matthew the apostle said unto that man, “Go thou to such and such a place, and what thou findest therein take, and give to thy lord.” And the man went and he found a bag full of gold, and he took it and gave it to his master and was saved. And the story of Saint Matthew’s [act] was heard throughout the city, and many men believed on our Lord Jesus Christ. When Justus the governor of that city heard that many men believed on our Lord Christ, he was exceedingly wroth, and he ordered his soldiers to cut off the head of Saint Matthew, and to cast his body to the fowls of the air. And they cut off his head with a sword, and certain believing men came and took his holy body and laid it in a holy place. Salutation to Matthew whose voice compelled the deep to restore from its depths to a certain man the gold which had sunk in it.\n\nAnd on this day also died the holy father, the pure virgin, the fighter of lusts, the vanquisher of natural appetites, Abba Demetrius the twelfth Archbishop of the city of Alexandria. This holy man was a man of the people (i.e. of lowly origin) and he knew not letters, and he used to work in a vineyard. His parents gave him a wife in his youth, and he lived with her until he was appointed archbishop— forty-eight years. Both husband and wife remained virgins, and no one knew about them except God, Who knoweth souls and hearts. When the time drew nigh for the death of Saint Julian the archbishop, the predecessor of Demetrius, the angel of the Lord appeared unto this holy man and told him that Demetrius was to be archbishop after him. And he gave him a sign concerning him, and said unto him, “Tomorrow a man shall come unto thee having a cluster of grapes with him; seize him and pray over him, and appoint him archbishop.” When Saint Julian woke up from his sleep, he told the bishops and the priests who lived with him what he had seen, and what the angel of the Lord had said unto him concerning Demetrius the archbishop. When the morning had come this Saint Demetrius, the archbishop, found in the vineyard a cluster of grapes which had ripened before their time, and he took it to Abba Julian the archbishop, so that he might be blessed by him. And Saint Julian took him by the hand, and said unto the bishops and priests, “This is he who shall be archbishop after me.” And they prayed over him, and they took him and bound him until Abba Julian died, whereupon they finished the prayers over him and made him archbishop. And he was full of heavenly grace, and he was versed in many kinds of learning, and he knew by heart all the Books of the Church and the interpretations thereof, and he read many abstruse works. It was he who regulated the reckoning of the Epacts, for the Christians used to keep the festival of the Baptism, and on the following day [began] the fast of Forty Days. And at the octave of His Passion they celebrated the festival of the Passion of our Lord by itself, and this they did from the days of the Apostles until the days of this father. And this father proclaimed the reckoning of the Epact by the Holy Spirit, and he regulated the reckoning of the Holy Fast. And he sent out letters [concerning it] to the Archbishops of the city of Rome, and of the city of Ephesus, and of the city of Antioch, and of the city of Jerusalem, and they rejoiced thereat, and they ordered [the Holy Fast] even as it is at this day. And God was with this Father Demetrius because of his sincerity (or purity). He used always to look for our Lord Jesus Christ at the time of the consecration of the Offering as he was administering the Holy Mysteries to those who were meet for them; and he drove away sinners, and said unto them, “Go ye and repent, and afterwards come and ye shall receive the Holy Mysteries; ye shall not receive them whilst ye are in sin so that ye may not go into Gahanam (Gehenna).” And Saint Demetrius used to reveal their sins to the people, those which they committed in secret, and he would rebuke each one of them for the sins which they committed. Because of this believers were afraid of him, and the members of his congregation did not commit sin because of their exceedingly great fear of him, and because they did not wish him to put them to shame before the congregation.\n\nAnd some of the people whom he used to rebuke for their sins would say among themselves, “This man is married, and his wife is with him at this present, why should he rebuke us especially? None but a virgin should be appointed to the throne of Mark the evangelist.” One night an angel of the Lord came to him and said unto him, ‘Demetrius, permit not thyself only to do as thou pleasest, and permit not thy neighbour to be destroyed. Remember that our Lord Christ saith in the Holy Gospel, ‘The good shepherd giveth his life for his flock.’” And Demetrius said unto him, “What is it that thou wouldst say unto me, my lord?” And the angel said unto him, “Reveal the mystery which is between thyself and thy wife to the people.” On the following day the festival of Pentecost was celebrated, and this holy Father Demetrius consecrated the Offering, and he commanded the archdeacons to tell the priests and all the people who were there that they were not to leave the church, but to stay together therein: and the archdeacons did as the archbishop had commanded. When the priests and the people were assembled he commanded that much wood should be brought and that a fire should be made of it, and [when] they had done so, this abba archbishop rose and stood up in the midst of the burning fire whilst all the people were looking on. And he prayed for a long time, and then he spread out his garment and took some of the fire with his hand and placed it in it. Then he called his wife, and she came unto him, and he said unto her, “Spread out thy woollen head-cloth,” and he cast some red-hot charcoal into it, and then he said unto her, “Stand up that we may pray.” And the red-hot charcoal continued to burn in the woollen head-cloth, and the cloth was not burned: and they remained in this position and prayed for a long time. After this the priests and the people asked him, saying, ‘“We require thy holiness, O our father, to make us know what this mystery is.” And he said unto them, “I have not done this seeking for the vain praise of this world, but behold, I have lived with this woman for eight and forty years, until this day, Now this woman whom thou seest was the daughter of my father’s brother. Her relatives died and they left her, then a little girl in my father’s house, and I was brought up with her. When I was fifteen years of age my father gave her unto me in marriage. When we entered the marriage-chamber in our house, she said unto me, ‘Why have they given me in marriage to thee, seeing that I am thy sister?’ And I said unto her, ‘Dost thou wish us to live together in one house, and never to separate from each other, and to preserve our virginity undefiled, and that there shall be nothing between us?’ And she said, ‘Yea.’ And I have lived with her in one place for eight and forty years, and we have lain in the same bed on one bedstead. And the Lord God Who is judge between us, and Who knoweth what is hidden and the thoughts of hearts, He knoweth that I have never known her as a woman, and on her part she doth not know me as a man, but we have passed all these days just lying side by side. When we lift ourselves up we see as it were a face which resembleth that of an eagle in our bed, between me and between her. And he layeth his left wing over her and his right wing over me, and this he doeth from the time we lie down until the morning, and then he disappeareth. Now do not think, O Christian people, that I have revealed this matter unto you because I am seeking the praise which men desire in this world, but God hath commanded me to reveal unto you this mystery, for He wisheth what is good for all men—the Christ, the Redeemer of all the world.” And in the days of this father certain evil men appeared whose names were Kalemos, and ’Aganos, and others with them, and they wrote a lying book; and Demetrius anathematized them and excommunicated them. And during the days of his office he taught and encouraged the Christian people, and all believers, every day regularly. When he was grown old and feeble they used to carry him on a litter, and set him down in the church, and he taught the people all day long from sunrise to sunset, and all the people pressed eagerly to hear his doctrine. And all the days of his life were one hundred and five (six?) years. Of these were fifteen during which he was unmarried, and eight and forty years passed before he was appointed archbishop, and he held the office of archbishop for three and forty years; and he died in peace. Salutation to Demetrius.\n\nAnd on this day also are commemorated the righteous men Peter, and Dionymus, and the strife of Ya‘ekob, and Abu Tefa, and Theodore, and ’Aminus (Amanus).",
+      "source": "E. A. Wallis Budge, The Book of the Saints of the Ethiopian Church (Cambridge, 1928), volume 1, pages 139 to 145. Public domain. The scanned text, corrected for scanning errors only.",
+      "note": "Budge's text, unchanged but for scanning errors: page headers and folio marks removed, line-end hyphens joined, names in small capitals set in title case, quotation marks restored. The opening invocation, the same every day, is left out: for the deacon whether to show it. Left out: Budge's alternative spelling of Dionymus, which the scan garbles. Rome for the scan's Rémé. Coptic Synaxarium, Baba 12: Demetrius, Matthew and Michael, as here. 2,500 words: for the deacon whether a day shows the whole entry."
+    }
+  ],
+  "withdrawn": [],
+  "contentHash": "2a3e6cec30e4fbbc098de6b40dec9ed43ee7a8aa52802a16fbada810faaa1307"
+}
